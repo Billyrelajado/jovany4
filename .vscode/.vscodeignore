@@ -1,0 +1,12 @@
+tsconfig.json
+vsc-extension-quickstart.md
+
+lib/**
+
+_layouts/**
+Gemfile
+Gemfile.lock
+_site/**
+assets/**
+_config.yml
+_site
